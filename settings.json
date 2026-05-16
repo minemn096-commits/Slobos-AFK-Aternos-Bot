@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mnmine096.aternos.me:38788
-",
+    "ip": "Mnmine096.aternos.me",
     "port": 38788,
     "version": "",
     "try-creative": false
