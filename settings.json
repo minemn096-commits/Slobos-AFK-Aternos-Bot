@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivol000.aternos.me:22780
-",
+    "ip": "survivol000.aternos.me:",
     "port": 22780,
     "version": "",
     "try-creative": false
